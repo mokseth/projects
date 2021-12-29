@@ -1,4 +1,4 @@
-# projects
+# projects in python
 
 my collection of projects while learning python
 
